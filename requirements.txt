@@ -1,0 +1,11 @@
+openpyxl
+beautifulsoup4
+pycountry
+lxml
+azure-communication-email
+Jinja2
+requests
+pandas
+numpy
+bs4
+python-dateutil
